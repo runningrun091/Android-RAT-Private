@@ -2,6 +2,8 @@
 
 Memorium Android RAT
 
+Android RAT
+Contact Telegram : @aurelhavel
 
 ![eagv](https://user-images.githubusercontent.com/121544829/209796233-5918f430-5ba0-487b-bc17-cc4ad6a9b56f.jpg)
 
@@ -32,23 +34,6 @@ Call log
 Anti-Delete image
 Live screen streaming
 More Features Ccoming soon
-
-
-
-
-
-
-
-
-
-
-
-Android RAT
-Contact Telegram : aurelhavel
-
-
-
-
 
 
 
